@@ -9,6 +9,10 @@ span.Eng{
   font-family: 'Allison', cursive;
 }
 
+.footer-link{
+  font-size: 100%;
+}
+
 
 hr{
   border: dotted #EAF6F6 10px ;
